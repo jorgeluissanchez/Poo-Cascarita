@@ -1,10 +1,3 @@
-<style>
-  body {
-    font-family: "Roboto", sans-serif;
-    font-size: 20px
-  }
-</style>
-
 # **Plan:**
 
 ## **Clases Generales:**
@@ -97,4 +90,3 @@
   - canciones (privado) (lista de Canción)
 - Métodos:
   - No tiene métodos
-# Poo-Cascarita
